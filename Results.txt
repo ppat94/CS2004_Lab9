@@ -1,0 +1,54 @@
+For 1000 iterations:
+
+11.0
+Elapsed Time: 44450246
+1.0
+Elapsed Time: 12912896
+15.0
+Elapsed Time: 14771729
+15.0
+Elapsed Time: 7643055
+1.0
+Elapsed Time: 7437385
+3.0
+Elapsed Time: 10825403
+1.0
+Elapsed Time: 7457500
+5.0
+Elapsed Time: 9694832
+11.0
+Elapsed Time: 11039694
+3.0
+Elapsed Time: 6928751
+Average Fitness: 6.6
+
+
+For 10000 iterations:
+
+1.0
+Elapsed Time: 119360230
+1.0
+Elapsed Time: 85164353
+3.0
+Elapsed Time: 97719276
+3.0
+Elapsed Time: 90715401
+1.0
+Elapsed Time: 90120968
+5.0
+Elapsed Time: 74296667
+1.0
+Elapsed Time: 73157475
+3.0
+Elapsed Time: 96447076
+1.0
+Elapsed Time: 104496956
+7.0
+Elapsed Time: 80116604
+Average Fitness: 2.6
+
+
+
+
+
+
